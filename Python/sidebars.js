@@ -6,10 +6,10 @@
 const sidebars = {
   'Python Training': [
     'index',
-    'OOPS',
-    'OOPS_Tasks',
     'Resources',
     'Tasks',
+    'OOPS',
+    'OOPS_Tasks',
   ],
 };
 

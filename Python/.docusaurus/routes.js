@@ -3,44 +3,44 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/',
-    component: ComponentCreator('/', '772'),
+    path: '/python-training/',
+    component: ComponentCreator('/python-training/', '5c5'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', '307'),
+        path: '/python-training/',
+        component: ComponentCreator('/python-training/', '6a3'),
         routes: [
           {
-            path: '/',
-            component: ComponentCreator('/', 'bab'),
+            path: '/python-training/',
+            component: ComponentCreator('/python-training/', 'a47'),
             routes: [
               {
-                path: '/OOPS',
-                component: ComponentCreator('/OOPS', '716'),
+                path: '/python-training/OOPS',
+                component: ComponentCreator('/python-training/OOPS', 'e55'),
                 exact: true,
                 sidebar: "Python Training"
               },
               {
-                path: '/OOPS_Tasks',
-                component: ComponentCreator('/OOPS_Tasks', 'f41'),
+                path: '/python-training/OOPS_Tasks',
+                component: ComponentCreator('/python-training/OOPS_Tasks', '945'),
                 exact: true,
                 sidebar: "Python Training"
               },
               {
-                path: '/Resources',
-                component: ComponentCreator('/Resources', '1fc'),
+                path: '/python-training/Resources',
+                component: ComponentCreator('/python-training/Resources', '32d'),
                 exact: true,
                 sidebar: "Python Training"
               },
               {
-                path: '/Tasks',
-                component: ComponentCreator('/Tasks', 'fa7'),
+                path: '/python-training/Tasks',
+                component: ComponentCreator('/python-training/Tasks', '98f'),
                 exact: true,
                 sidebar: "Python Training"
               },
               {
-                path: '/',
-                component: ComponentCreator('/', '34e'),
+                path: '/python-training/',
+                component: ComponentCreator('/python-training/', '7fb'),
                 exact: true,
                 sidebar: "Python Training"
               }

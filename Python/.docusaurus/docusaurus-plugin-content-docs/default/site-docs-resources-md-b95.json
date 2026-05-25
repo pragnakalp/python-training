@@ -5,7 +5,7 @@
   "source": "@site/docs/Resources.md",
   "sourceDirName": ".",
   "slug": "/Resources",
-  "permalink": "/Resources",
+  "permalink": "/python-training/Resources",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/pragnakalp/python-training/tree/main/docs/Resources.md",
@@ -14,11 +14,11 @@
   "frontMatter": {},
   "sidebar": "Python Training",
   "previous": {
-    "title": "OOPS Programming Tasks",
-    "permalink": "/OOPS_Tasks"
+    "title": "Python Junior Training Documentation",
+    "permalink": "/python-training/"
   },
   "next": {
     "title": "Python Questionnaire",
-    "permalink": "/Tasks"
+    "permalink": "/python-training/Tasks"
   }
 }

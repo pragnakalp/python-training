@@ -5,7 +5,7 @@
   "source": "@site/docs/Tasks.md",
   "sourceDirName": ".",
   "slug": "/Tasks",
-  "permalink": "/Tasks",
+  "permalink": "/python-training/Tasks",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/pragnakalp/python-training/tree/main/docs/Tasks.md",
@@ -15,6 +15,10 @@
   "sidebar": "Python Training",
   "previous": {
     "title": "Python Learning Resources",
-    "permalink": "/Resources"
+    "permalink": "/python-training/Resources"
+  },
+  "next": {
+    "title": "Object-Oriented Programming (OOPS) in Python",
+    "permalink": "/python-training/OOPS"
   }
 }

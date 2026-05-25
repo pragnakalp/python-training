@@ -30,7 +30,7 @@ export default {
     }
   },
   "url": "https://pragnakalp.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/python-training/",
   "organizationName": "pragnakalp",
   "projectName": "python-training",
   "onBrokenLinks": "throw",

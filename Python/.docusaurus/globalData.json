@@ -1,38 +1,38 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/python-training/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/python-training/",
           "mainDocId": "index",
           "docs": [
             {
               "id": "index",
-              "path": "/",
+              "path": "/python-training/",
               "sidebar": "Python Training"
             },
             {
               "id": "OOPS",
-              "path": "/OOPS",
+              "path": "/python-training/OOPS",
               "sidebar": "Python Training"
             },
             {
               "id": "OOPS_Tasks",
-              "path": "/OOPS_Tasks",
+              "path": "/python-training/OOPS_Tasks",
               "sidebar": "Python Training"
             },
             {
               "id": "Resources",
-              "path": "/Resources",
+              "path": "/python-training/Resources",
               "sidebar": "Python Training"
             },
             {
               "id": "Tasks",
-              "path": "/Tasks",
+              "path": "/python-training/Tasks",
               "sidebar": "Python Training"
             }
           ],
@@ -40,7 +40,7 @@
           "sidebars": {
             "Python Training": {
               "link": {
-                "path": "/",
+                "path": "/python-training/",
                 "label": "index"
               }
             }
