@@ -8,10 +8,10 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "Index",
+          "mainDocId": "index",
           "docs": [
             {
-              "id": "Index",
+              "id": "index",
               "path": "/",
               "sidebar": "Python Training"
             },
@@ -41,7 +41,7 @@
             "Python Training": {
               "link": {
                 "path": "/",
-                "label": "Index"
+                "label": "index"
               }
             }
           }

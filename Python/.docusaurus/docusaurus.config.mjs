@@ -31,7 +31,7 @@ export default {
   },
   "url": "https://pragnakalp.github.io",
   "baseUrl": "/",
-  "organizationName": "python-trainingpragnakalp",
+  "organizationName": "pragnakalp",
   "projectName": "python-training",
   "onBrokenLinks": "throw",
   "i18n": {
@@ -49,7 +49,7 @@ export default {
         "docs": {
           "sidebarPath": "./sidebars.js",
           "routeBasePath": "/",
-          "editUrl": "https://github.com/python-trainingpragnakalp/python-training/tree/main/"
+          "editUrl": "https://github.com/pragnakalp/python-training/tree/main/"
         },
         "blog": false,
         "theme": {

@@ -5,7 +5,7 @@
  */
 const sidebars = {
   'Python Training': [
-    'Index',
+    'index',
     'OOPS',
     'OOPS_Tasks',
     'Resources',

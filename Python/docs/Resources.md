@@ -155,8 +155,5 @@
 
 ---
 
-**Back to Introduction:** [Index](Index)
-
----
 
 **Happy Learning! 🎉**
