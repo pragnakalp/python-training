@@ -1,0 +1,24 @@
+{
+  "id": "OOPS",
+  "title": "Object-Oriented Programming (OOPS) in Python",
+  "description": "Complete Guide to Object-Oriented Concepts",
+  "source": "@site/docs/OOPS.md",
+  "sourceDirName": ".",
+  "slug": "/OOPS",
+  "permalink": "/OOPS",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/python-trainingpragnakalp/python-training/tree/main/docs/OOPS.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Python Training",
+  "previous": {
+    "title": "Python Junior Training Documentation",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "OOPS Programming Tasks",
+    "permalink": "/OOPS_Tasks"
+  }
+}

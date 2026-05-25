@@ -1,0 +1,24 @@
+{
+  "id": "OOPS_Tasks",
+  "title": "OOPS Programming Tasks",
+  "description": "Object-Oriented Programming Challenges",
+  "source": "@site/docs/OOPS_Tasks.md",
+  "sourceDirName": ".",
+  "slug": "/OOPS_Tasks",
+  "permalink": "/OOPS_Tasks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/python-trainingpragnakalp/python-training/tree/main/docs/OOPS_Tasks.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "Python Training",
+  "previous": {
+    "title": "Object-Oriented Programming (OOPS) in Python",
+    "permalink": "/OOPS"
+  },
+  "next": {
+    "title": "Python Learning Resources",
+    "permalink": "/Resources"
+  }
+}
