@@ -27,7 +27,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'python-trainingpragnakalp', // Usually your GitHub org/user name.
+  organizationName: 'pragnakalp', // Usually your GitHub org/user name.
   projectName: 'python-training', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -49,7 +49,7 @@ const config = {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
           editUrl:
-            'https://github.com/python-trainingpragnakalp/python-training/tree/main/',
+            'https://github.com/pragnakalp/python-training/tree/main/',
         },
         blog: false,
         theme: {
